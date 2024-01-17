@@ -1,3 +1,36 @@
 body {
-    background-color: aquamarine;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+/* Tambahkan identitas diri di bawah ini */
+
+/* Contoh styling untuk identitas diri */
+#identitas {
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 50%;
+    background-color: #fff;
+}
+
+#identitas h2 {
+    color: #555;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#identitas p {
+    color: #777;
+    line-height: 1.4;
 }
